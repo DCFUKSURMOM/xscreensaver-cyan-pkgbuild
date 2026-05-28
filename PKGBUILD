@@ -2,7 +2,7 @@
 # Contributor: Eric Bélanger <eric@archlinux.org>
 
 pkgname=xscreensaver-cyan
-pkgver=6.14
+pkgver=6.15
 pkgrel=1
 pkgdesc='Screen saver and locker for the X Window System'
 url='https://www.jwz.org/xscreensaver/'
